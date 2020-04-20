@@ -1,0 +1,23 @@
+.questionWrapper{
+    width: 100%;
+    margin: 0 auto;
+    padding: 30px;
+    margin-top: 20px;
+    border: 1px solid rgb(0, 132, 189);
+}
+.question{
+    margin-bottom: 20px;
+    border-radius: 10px;
+}
+.btnPrimary{
+    padding: 10px;
+    border: none;
+    font-size: 16px;
+    background-color: rgb(0, 132, 189);
+    border-radius: 10px;
+    color: #fff;
+}
+.saveButton{
+    width:100%;
+    text-align: right;
+}
